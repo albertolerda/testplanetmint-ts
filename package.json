@@ -11,7 +11,7 @@
     "bs58": "^5.0.0",
     "js-sha3": "^0.8.0",
     "json-stable-stringify": "^1.0.1",
-    "zenroom": "^2.2.3-bc442c74"
+    "zenroom": "next"
   },
   "devDependencies": {
     "@types/json-stable-stringify": "^1.0.34",

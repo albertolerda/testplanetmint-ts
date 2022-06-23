@@ -3,3 +3,5 @@
 1. Run `yarn start`, it will compile and run the script
 
 In the output you can see that the zenroom fulfillment is serializated and deserializated correctly
+
+In case there are problem with zenroom, try to update it with `yarn add zenroom@next`
