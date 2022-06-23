@@ -1,0 +1,21 @@
+{
+  "name": "testplanetmint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx tsc && node ./build/index.js"
+  },
+  "dependencies": {
+    "bigchaindb-driver": "^4.3.0",
+    "bs58": "^5.0.0",
+    "js-sha3": "^0.8.0",
+    "json-stable-stringify": "^1.0.1",
+    "zenroom": "^2.2.3-bc442c74"
+  },
+  "devDependencies": {
+    "@types/json-stable-stringify": "^1.0.34",
+    "@types/node": "^18.0.0",
+    "typescript": "^4.7.4"
+  }
+}
